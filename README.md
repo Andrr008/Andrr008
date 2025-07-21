@@ -4,8 +4,6 @@ I`m a student and I am interested in developing website, dekstop, and mobile ğŸ–
 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-## ğŸ”¥ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrr008)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
