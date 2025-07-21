@@ -1,4 +1,7 @@
-## Hi there 👋, I`m Faizal 😎 a Junior Programmer 
+## Hi there 👋, I`m Faizal 😎. a Junior Programmer 
+I am interested in developing website, dekstop, and mobile 🖥️
+
+![Andra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrr008&show_icons=true&theme=tokyonight)
 
 <!--
 **Andrr008/Andrr008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
