@@ -1,4 +1,5 @@
-## Hi there 👋, I`m Faizal 😎. a Junior Programmer 
+## Hi There 👋
+## I`m Faizal 😎, a Junior Programmer 🧑‍💻
 I`m a student and I am interested in developing website, dekstop, and mobile 🖥️
 
 ## What I Learn
