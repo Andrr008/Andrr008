@@ -12,7 +12,7 @@ I`m a student and I am interested in developing website, dekstop, and mobile ðŸ–
 
 
 ## What I Learn ðŸ”§
-![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,html,tailwind,python,mysql)
+![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,tailwind,python,mysql)
 
 ## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrr008&layout=compact&theme=github_dark)
