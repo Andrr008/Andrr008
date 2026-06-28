@@ -1,4 +1,4 @@
-## I`m Faizal 😎, a  Student 🧑‍💻
+## Faizal 😎, Informatics  Student 🧑‍💻
 
 I`m a student and I am interested in developing website, dekstop, and mobile 🖥️
 
