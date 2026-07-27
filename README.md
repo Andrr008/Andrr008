@@ -3,7 +3,7 @@
 I`m a student and I am interested in developing website, dekstop, and mobile 🖥️
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MXF0OXZ0NXRlNG1wYjFhcGZ6OTl1ODBtNWhubGU4ZWFvdjNlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF4b2J6bTJvNmJjZ21yanY1ZGp6MXNtdmtydjJiMjNvdWVvemc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPrtbCsTGQokn5e/giphy.gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MXF0OXZ0NXRlNG1wYjFhcGZ6OTl1ODBtNWhubGU4ZWFvdjNlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF4b2J6bTJvNmJjZ21yanY1ZGp6MXNtdmtydjJiMjNvdWVvemc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPrtbCsTGQokn5e/giphy.gif"/>
 
 
 
