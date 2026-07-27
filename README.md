@@ -13,10 +13,10 @@ I`m a student and I am interested in developing website, dekstop, and mobile ðŸ–
 
 
 ## What I Learn ðŸ”§
-![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,tailwind,python,mysql)      ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Andrr008&theme=sunset&days=90&width=400&height=120&border_radius=3)
+![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,tailwind,python,mysql)
 
 ## My Stats
-![Top Langs](https://ghstats.dev/api/langs?username=Andrr008&theme=radical&border_radius=5)
+![Top Langs](https://ghstats.dev/api/langs?username=Andrr008&theme=radical&border_radius=5)  ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Andrr008&theme=sunset&days=90&width=400&height=120&border_radius=3)
 
 
 ![GitHub stats](https://ghstats.dev/api/card?username=Andrr008&theme=ocean&border_radius=5)
