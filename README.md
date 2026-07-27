@@ -18,7 +18,7 @@ I`m a student and I am interested in developing website, dekstop, and mobile ðŸ–
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrr008&layout=compact&theme=github_dark)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrr008&show_icons=true&theme=github_dark)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=Andrr008&show_icons=true&theme=github_dark](https://ghstats.dev/api/card?username=Andrr008))
 
 
 
