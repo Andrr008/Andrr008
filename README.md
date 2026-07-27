@@ -3,7 +3,7 @@
 I`m a student and I am interested in developing website, dekstop, and mobile 🖥️
 
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MXF0OXZ0NXRlNG1wYjFhcGZ6OTl1ODBtNWhubGU4ZWFvdjNlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 
 
